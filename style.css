@@ -101,6 +101,17 @@ input::placeholder {
     font-weight: 500;
 }
 
+@media screen and (min-width: 300px) and (max-width:400px) {
+    main {
+        margin-left: -50px;
+    }
+
+    form {
+        margin: 161px auto;
+        width: 130px;
+    }
+}
+
 @media screen and (min-width: 400px) and (max-width:480px) {
 
     main {
