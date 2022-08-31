@@ -82,7 +82,7 @@ input::placeholder {
     font-size: 14px;
     color: #fff;
     font-family: 'Montserrat', sans-serif;
-font-weight: 300;
+    font-weight: 300;
 }
 
 .forgot-password {
@@ -109,7 +109,7 @@ font-weight: 300;
 
     form {
         margin: 161px auto;
-        /* width: 100%; */
+        width: 130px;
     }
 }
 
@@ -120,7 +120,7 @@ font-weight: 300;
 
     form {
         margin: 161px auto;
-        
+        width: 160px;
     }
 }
 
