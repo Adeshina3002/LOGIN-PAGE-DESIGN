@@ -103,7 +103,7 @@ input::placeholder {
 
 @media screen and (min-width: 300px) and (max-width:400px) {
     main {
-        margin-left: -30px;
+        margin-left: 0px;
     }
 
     form {
